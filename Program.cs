@@ -1,4 +1,5 @@
-﻿string name1;
+﻿//I like the way you pulled the current time in your response! Nice job! ~ Liz
+string name1;
 string time1;
 string playAgain = "Y";
 
